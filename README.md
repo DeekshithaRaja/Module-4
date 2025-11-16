@@ -17,7 +17,7 @@ DOCTOR CONSULTATION FEES
 <img width="1775" height="651" alt="image" src="https://github.com/user-attachments/assets/9c98bc1f-567b-4c03-ba71-dedd9c1959f4" />
 
 MODES OF PAYMENT
-<img width="1682" height="644" alt="image" src="https://github.com/user-attachments/assets/c40e97dc-edbd-40f1-b882-55ef2cc95b89" />
+<img width="1778" height="645" alt="image" src="https://github.com/user-attachments/assets/9008fc9e-01db-4fb0-b806-e6a4ec58592e" />
 
 
 
