@@ -19,5 +19,9 @@ DOCTOR CONSULTATION FEES
 MODES OF PAYMENT
 <img width="1778" height="645" alt="image" src="https://github.com/user-attachments/assets/9008fc9e-01db-4fb0-b806-e6a4ec58592e" />
 
+SHIPMENTDELIVERY
+<img width="1767" height="642" alt="image" src="https://github.com/user-attachments/assets/a5d5d1d7-6302-41c1-b287-00d83f2154b2" />
+
+
 
 
