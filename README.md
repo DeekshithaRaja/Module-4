@@ -14,4 +14,6 @@ TRANSPORT DETAILS (HIERARCHICAL INHERITANCE)
 <img width="1792" height="637" alt="image" src="https://github.com/user-attachments/assets/d61ad861-c123-45a8-9738-24abcd1ecfea" />
 
 DOCTOR CONSULTATION FEES
+<img width="1775" height="651" alt="image" src="https://github.com/user-attachments/assets/9c98bc1f-567b-4c03-ba71-dedd9c1959f4" />
+
 
