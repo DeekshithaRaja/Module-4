@@ -13,3 +13,5 @@ EMPLOYEE DETAILS (INHERITANCE)
 TRANSPORT DETAILS (HIERARCHICAL INHERITANCE)
 <img width="1792" height="637" alt="image" src="https://github.com/user-attachments/assets/d61ad861-c123-45a8-9738-24abcd1ecfea" />
 
+DOCTOR CONSULTATION FEES
+
