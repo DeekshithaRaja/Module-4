@@ -13,3 +13,6 @@ EMPLOYEE DETAILS (INHERITANCE)
 AREA OF SHAPES (INHERITANCE)
 <img width="1747" height="640" alt="image" src="https://github.com/user-attachments/assets/537b2bbc-15a0-4172-aa57-f0637fbd6d4f" />
 
+TRANSPORT DETAILS (HIERARCHICAL INHERITANCE)
+<img width="1792" height="637" alt="image" src="https://github.com/user-attachments/assets/d61ad861-c123-45a8-9738-24abcd1ecfea" />
+
