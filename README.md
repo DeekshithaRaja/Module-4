@@ -10,6 +10,6 @@ TRANSPORT DETAILS
 EMPLOYEE DETAILS (INHERITANCE)
 <img width="1783" height="638" alt="image" src="https://github.com/user-attachments/assets/927b1669-733e-46e9-962b-4a4272483568" />
 
-AREA OF SHAPES
+AREA OF SHAPES (INHERITANCE)
 <img width="1747" height="640" alt="image" src="https://github.com/user-attachments/assets/537b2bbc-15a0-4172-aa57-f0637fbd6d4f" />
 
